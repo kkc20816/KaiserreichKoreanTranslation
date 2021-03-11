@@ -130,7 +130,7 @@ OTT_revolt_risk_very_high_NOT:0 "Does not have §RVery High§! £resistance_text
 
 ### Focuses
 ott_education_decree_tt:0 "\n§Y교육 칙령§! 통과가 실패한다면 §R심각한 결과§!가 일어날 수 있습니다."
-ott_judicial_decree_tt:0 "\nFailure to reform the §YCivil Code§! could have §RSevere Consequences§!"
+ott_judicial_decree_tt:0 "\n§민법 개혁§!이 실패한다면 §R엄청난 재앙§!을 초래할 것입니다."
 ott_penal_code_tt:0 "\nFailure to reform the §YAlīye-i Emniyet Hizmeti§! could have §RSevere Consequences§!"
 ott_edu_passed.tt:0 "The §YEducation Decree§! will be §Gpassed§!"
 ott_edu_refused.tt:0 "The §YEducation Decree§! will be §Rstopped§! in the Meclis-i Âyân"
@@ -141,10 +141,10 @@ ott_maghrebi_frontier_tt:0 "Unlock £decision_icon_small §YDecisions§! to invi
 ott_arab_peninsula_tt:0 "Unlock £decision_icon_small §YDecisions§! to invite §C [JBS.GetNameWithFlag], [OMA.GetNameWithFlag] §! to the §YIstanbul Pact§!\n\nUnlock £decision_icon_small §YDecisions§! to invite §C [JBS.GetNameWithFlag], [OMA.GetNameWithFlag], [YEM.GetNameWithFlag] §! to the §YAssociation of Muslim Nations§!"
 ott_orient_tt:0 "Unlock £decision_icon_small §YDecisions§! to invite §C [AZR.GetNameWithFlag], [AFG.GetNameWithFlag] §! to the §YIstanbul Pact§!\n\nUnlock £decision_icon_small §YDecisions§! to invite §C [AZR.GetNameWithFlag], [PER.GetNameWithFlag], [TRK.GetNameWithFlag], [ALO.GetNameWithFlag], [AFG.GetNameWithFlag], [TAN.GetNameWithFlag], [ETS.GetNameWithFlag], [INS.GetNameWithFlag], [MAL.GetNameWithFlag], [SAR.GetNameWithFlag] §! to the §YAssociation of Muslim Nations§!"
 ott_gamble_caucasus_tt:0 "§C[AZR.GetNameWithFlag]§! will be brought into our sphere in exchange for §YReichspakt§! membership"
-ott_alliance_of_convenience_tt:0 "§C[AUS.GetNameWithFlag]§! and §C[OTT.GetNameWithFlag]§! will join the §YSarajevo Accords§!, combining their influence over the Balkans.\n\n§C[SER.GetNameWithFlag]§!, §C[ALB.GetNameWithFlag]§!, §C[GRE.GetNameWithFlag]§!, §C[BUL.GetNameWithFlag]§!, §C[ROM.GetNameWithFlag]§! will receive a §YGuarantee of Independence§! from both sides"
-cancel_ger:0 "Germany has broken off negotiations"
-cancel_aus:0 "Austria has broken off negotiations"
-alliance_aus:0 "Austria has accepted our alliance offer"
+ott_alliance_of_convenience_tt:0 "§C[AUS.GetNameWithFlag]§! 그리고 §C[OTT.GetNameWithFlag]§! 은(는) §Y사라예보 조약§!에 가입할 것이고, 그들과 협동하여 발칸에 영향을 끼칠 것입니다.\n\n§C[SER.GetNameWithFlag]§!, §C[ALB.GetNameWithFlag]§!, §C[GRE.GetNameWithFlag]§!, §C[BUL.GetNameWithFlag]§!, §C[ROM.GetNameWithFlag]§! will receive a §YGuarantee of Independence§! from both sides"
+cancel_ger:0 "독일이 협상을 거부하다."
+cancel_aus:0 "오스트리아가 협상을 거부하다."
+alliance_aus:0 "오스트리아가 우리의 동맹제안을 받아들이다."
 ott_reformed_conscription_system_tt:0 "Disables §YRecruit Local Troops§! state interaction\n\n"
 ott_bribing_is_cool_tt:0 "Enables §YInstall Loyal Administrators§! state interaction\n\n"
 ott_but_purging_is_cooler_tt:0 "Enables §YPurge Disloyal Elements§! state interaction\n\n"
